@@ -5,6 +5,7 @@ import IMG3 from '../../assets/shelter.png';
 import IMG4 from '../../assets/fake.png';
 import IMG5 from '../../assets/news.png';
 import IMG6 from '../../assets/math.png';
+import REST from '../../assets/rest.png';
 
 
 import './portfolio.css';
@@ -21,7 +22,7 @@ const Portfolio = () => {
     {
       id: 2,
       title: 'React Restaurant',
-      img: IMG4,
+      img: REST,
       link: 'https://athif-react-restaurant.netlify.app',
       github:'https://github.com/athifahamedj/food-order-app.git',
 //       link: 'https://angry-yalow-17c6ab.netlify.app/',
