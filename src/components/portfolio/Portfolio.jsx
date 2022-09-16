@@ -20,10 +20,12 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: 'FakeStore',
+      title: 'React Restaurant',
       img: IMG4,
-      link: 'https://angry-yalow-17c6ab.netlify.app/',
-      github: 'https://github.com/Meri-MG/metrics-webapp---react',
+      link: 'https://athif-react-restaurant.netlify.app',
+      github:'https://github.com/athifahamedj/food-order-app.git',
+//       link: 'https://angry-yalow-17c6ab.netlify.app/',
+//       github: 'https://github.com/Meri-MG/metrics-webapp---react',
     },
     {
       id: 3,
