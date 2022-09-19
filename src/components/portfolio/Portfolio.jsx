@@ -23,7 +23,7 @@ const Portfolio = () => {
       id: 2,
       title: 'React Restaurant',
       img: REST,
-      link: 'https://athif-react-restaurant.netlify.app',
+      link: 'https://aaa-meals.netlify.app',
       github:'https://github.com/athifahamedj/food-order-app.git',
 //       link: 'https://angry-yalow-17c6ab.netlify.app/',
 //       github: 'https://github.com/Meri-MG/metrics-webapp---react',
