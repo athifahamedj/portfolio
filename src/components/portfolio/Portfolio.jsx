@@ -1,7 +1,7 @@
 import React from 'react';
 import IMG1 from '../../assets/bookstore.png';
 import IMG2 from '../../assets/todo.png';
-import IMG3 from '../../assets/shelter.png';
+// import IMG3 from '../../assets/shelter.png';
 //import IMG4 from '../../assets/fake.png';
 import IMG5 from '../../assets/news.png';
 import IMG6 from '../../assets/math.png';
