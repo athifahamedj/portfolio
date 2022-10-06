@@ -1,10 +1,10 @@
 import React from 'react';
-import IMG1 from '../../assets/bookstore.png';
-import IMG2 from '../../assets/todo.png';
+// import IMG1 from '../../assets/bookstore.png';
+import IMG2 from '../../assets/todolist.png';
 // import IMG3 from '../../assets/shelter.png';
 //import IMG4 from '../../assets/fake.png';
-import IMG5 from '../../assets/news.png';
-import IMG6 from '../../assets/math.png';
+// import IMG5 from '../../assets/news.png';
+// import IMG6 from '../../assets/math.png';
 import REST from '../../assets/rest.png';
 import REDUX from '../../assets/redux.png'
 
@@ -13,13 +13,13 @@ import './portfolio.css';
 
 const Portfolio = () => {
   const soloProjects = [
-    {
-      id: 1,
-      title: 'Bookstore',
-      img: IMG1,
-      link: 'https://melodic-boba-111583.netlify.app/',
-      github: 'https://github.com/Meri-MG/bookstore---react',
-    },
+//     {
+//       id: 1,
+//       title: 'Bookstore',
+//       img: IMG1,
+//       link: 'https://melodic-boba-111583.netlify.app/',
+//       github: 'https://github.com/Meri-MG/bookstore---react',
+//     },
     {
       id: 2,
       title: 'React Restaurant',
@@ -31,10 +31,10 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      title: 'To-Do-App',
+      title: 'To-Do App',
       img: IMG2,
-      link: 'https://meri-mg.github.io/To-Do-List/dist/',
-      github: 'https://github.com/Meri-MG/To-Do-List',
+      link: 'https://athif-portfolio.netlify.app/',
+      github: 'https://github.com/athifahamedj/simple-todolist',
     },
     {
       id: 4,
@@ -43,20 +43,20 @@ const Portfolio = () => {
       link: 'https://athif-redux.netlify.app/',
       github: 'https://github.com/athifahamedj/redux',
     },
-    {
-      id: 5,
-      title: 'World News',
-      img: IMG5,
-      link: 'https://meri-mg.github.io/Unilab-world-news/',
-      github: 'https://github.com/Meri-MG/Unilab-world-news',
-    },
-    {
-      id: 6,
-      title: 'Math Resource',
-      img: IMG6,
-      link: 'https://lukinoo.github.io/math-resource/',
-      github: 'https://github.com/lukinoo/math-resource',
-    },
+//     {
+//       id: 5,
+//       title: 'World News',
+//       img: IMG5,
+//       link: 'https://meri-mg.github.io/Unilab-world-news/',
+//       github: 'https://github.com/Meri-MG/Unilab-world-news',
+//     },
+//     {
+//       id: 6,
+//       title: 'Math Resource',
+//       img: IMG6,
+//       link: 'https://lukinoo.github.io/math-resource/',
+//       github: 'https://github.com/lukinoo/math-resource',
+//     },
   ];
   
 
