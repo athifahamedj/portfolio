@@ -6,6 +6,7 @@ import IMG3 from '../../assets/shelter.png';
 import IMG5 from '../../assets/news.png';
 import IMG6 from '../../assets/math.png';
 import REST from '../../assets/rest.png';
+import REDUX from '../../assets/redux.png'
 
 
 import './portfolio.css';
@@ -37,10 +38,10 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      title: 'Shelter',
-      img: IMG3,
-      link: 'https://meri-mg.github.io/shelter/pages/main/index.html',
-      github: 'https://github.com/Meri-MG/shelter',
+      title: 'REDUX',
+      img: REDUX,
+      link: 'https://athif-redux.netlify.app/',
+      github: 'https://github.com/athifahamedj/redux',
     },
     {
       id: 5,
@@ -61,7 +62,7 @@ const Portfolio = () => {
 
   return (
     <section id="portfolio">
-      <h5>My Recent Work</h5>
+      <h5>My Recent Works</h5>
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
