@@ -6,6 +6,7 @@ import IMG2 from '../../assets/todolist.png';
 // import IMG5 from '../../assets/news.png';
 // import IMG6 from '../../assets/math.png';
 import REST from '../../assets/rest.png';
+import QUOTES from '../../assets/quotes.png'
 import REDUX from '../../assets/redux.png'
 
 
@@ -13,13 +14,13 @@ import './portfolio.css';
 
 const Portfolio = () => {
   const soloProjects = [
-//     {
-//       id: 1,
-//       title: 'Bookstore',
-//       img: IMG1,
-//       link: 'https://melodic-boba-111583.netlify.app/',
-//       github: 'https://github.com/Meri-MG/bookstore---react',
-//     },
+     {
+       id: 1,
+       title: 'The Great Quotes',
+       img: QUOTES,
+       link: 'https://athif-react-router.netlify.app/',
+       github: 'https://github.com/athifahamedj/react-router.git',
+     },
     {
       id: 2,
       title: 'React Restaurant',
