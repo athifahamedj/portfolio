@@ -20,12 +20,12 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>1.5 years</small>
+              <small>1 Year 8 Months</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>5+ Completed Projects</small>
+              <small>7+ Completed Projects</small>
             </article>
           </div>
           <p>I’ve spent the last several months learning and working with React.js, Node.js, building everything from landing pages to APIs. My experience as a javascript developer helped me work with its frameworks quite easy.</p>
