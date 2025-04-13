@@ -20,15 +20,15 @@ const Intro = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>1 Year 8 Months</small>
+              <small>4+ Years</small>
             </article>
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>7+ Completed Projects</small>
+              <small>10+ Completed Projects</small>
             </article>
           </div>
-          <p>I’ve spent the last several months learning and working with React.js, Node.js, building everything from landing pages to APIs. My experience as a javascript developer helped me work with its frameworks quite easy.</p>
+          <p>💻 I've spent the past several months deeply involved in building full-stack applications using React.js and Node.js — from responsive landing pages to fully functional REST APIs. My strong foundation in JavaScript has made it natural to work with its ecosystem and adapt quickly to modern frameworks.</p>
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
         </div>
       </div>
