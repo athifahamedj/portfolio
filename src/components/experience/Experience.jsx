@@ -35,6 +35,10 @@ const Experience = () => {
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>CSS3</h4>
             </article>
+             <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Tailwind CSS</h4>
+            </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>SCSS</h4>
@@ -75,6 +79,10 @@ const Experience = () => {
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>MySQL</h4>
+            </article>
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details-icon" />
+              <h4>Java Spring Boot</h4>
             </article>
           </div>
         </div>
